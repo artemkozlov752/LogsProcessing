@@ -63,7 +63,7 @@ class LogProcessing:
 
 
         Returns:
-            (list): list with logs in dict format.
+            (pd.DataFrame): dataframe with logs.
 
         """
         logs = pd.DataFrame()
