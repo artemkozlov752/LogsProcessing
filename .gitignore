@@ -1,0 +1,16 @@
+application_logs/*
+*.log
+*.log.*
+.cache
+.coverage
+.idea
+.pytest_cache
+
+# ==== Python specific ===
+# Byte-compiled / optimized / DLL files
+*$py.class
+*.py[cod]
+__pycache__/
+
+# ==== Project specific ===
+grouped_data/*

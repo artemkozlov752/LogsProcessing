@@ -1,0 +1,2 @@
+path_to_logger: "./configs/logging.yaml"
+path_to_result: "./grouped_data/grouped_data.csv"
