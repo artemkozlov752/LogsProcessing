@@ -25,5 +25,7 @@ If on the step 4 there is no arguments path_to_zip and print, then default value
 ## How to check logs
 See `LogsProcessing/application_logs/info.log`
 
+All necessary configs are in `LogsProcessing/configs/`
+
 ## Result
 The result csv will be in the `LogsProcessing/grouped_data/grouped_data.csv`
